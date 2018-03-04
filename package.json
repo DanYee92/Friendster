@@ -1,17 +1,27 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Full stack compatibility-based application",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "engines": {
+    "npm": "5.7.1",
+    "node": "6.11.3"
+  }
+  },{
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
+    "foobar": "^1.1.0",
     "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanYee92/Friendster.git"
   }
 }
