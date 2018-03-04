@@ -1,0 +1,23 @@
+.jumbotron {
+	background: teal;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+	background: #E8D2BB;
+}
+
+hr {
+	border-color: inherit;
+	    margin: 1em 0;
+}
+
+#results-modal img {
+	overflow: hidden;
+	width: 500px;
+}
